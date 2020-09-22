@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+
+
+
+}
+
+body {
+  background: #222;
+  color: hotpink;
+  font-family: montserrat, mulish, sans-serif;
 }
 
 .App-logo {
